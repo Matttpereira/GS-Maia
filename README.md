@@ -25,7 +25,7 @@ Entrada livre do usuário, exemplo típico:
 O system prompt define um comportamento entrevistador e conduz o usuário a fornecer detalhes profissionais.
 
 Não há formatação exigida nem estrutura rígida.
-https://github.com/user-attachments/assets/8b786a88-b5b9-4bad-ab70-d923b28380cb
+<img width="1793" height="566" alt="Image" src="https://github.com/user-attachments/assets/8b786a88-b5b9-4bad-ab70-d923b28380cb" />
 
 
 
