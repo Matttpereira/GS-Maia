@@ -49,6 +49,7 @@ Utiliza a descrição dada na F1, por exemplo:
 O system prompt orienta a IA a atuar como analista de carreira.
 
 Extração de habilidades implícitas e explícitas.
+<img width="1793" height="566" alt="Image" src="https://github.com/user-attachments/assets/97ce89ec-0dbe-4eaf-96a8-1980a4dd83c6" />
 
 
 
