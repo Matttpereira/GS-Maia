@@ -1,4 +1,4 @@
-Documento de Engenharia de Prompt
+Documento de Engenharia de Prompt 
 
 Este documento descreve a arquitetura de prompts utilizada no agente LLM implementado no notebook.
 O fluxo é baseado em um seletor de funcionalidades (1 a 4) e, para cada funcionalidade, o comportamento do modelo é controlado principalmente pelo System Prompt, seguido pelo User Prompt inserido em tempo real.
