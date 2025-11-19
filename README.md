@@ -112,3 +112,4 @@ As funcionalidades são moduladas por condicionais no código (if usuario == N).
 A temperatura baixa aumenta consistência.
 
 O modelo usado (gpt-4o-mini) é suficiente para respostas rápidas e objetivas.
+Video de demonstração do código: https://youtu.be/Gz0SGJEIbLM 
