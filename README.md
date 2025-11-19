@@ -99,6 +99,7 @@ O usuário interage como em um diálogo normal, por exemplo:
 System prompt define um comportamento estruturado, formato entrevista.
 
 A IA responde com perguntas, não com respostas completas.
+<img width="1792" height="245" alt="Image" src="https://github.com/user-attachments/assets/c8375d0e-78bd-4dae-a33d-5563b2c7bd6a" />
 
 
 
