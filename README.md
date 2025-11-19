@@ -75,6 +75,7 @@ Focado em mercado atual + tendências.
 Recomendações práticas e imediatas.
 
 Oferece direcionamento de estudo.
+<img width="1793" height="566" alt="Image" src="https://github.com/user-attachments/assets/02167928-f946-451a-833d-6f71c27506a9" />
 
 
 
